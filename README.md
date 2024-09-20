@@ -52,7 +52,7 @@ This project is a simple **Password Strength Checker** built using Python and **
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run password_strength_checker.py
+   streamlit run password.py
    ```
 
 2. Open your browser and go to the URL provided by Streamlit (usually http://localhost:8501).
